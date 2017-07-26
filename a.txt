@@ -1,0 +1,3 @@
+the authenticity of host 'githbu.com can't be establised.
+rsa key fingerprint is xxxx.xxx.xx..x
+are you sure you want to continue connection
